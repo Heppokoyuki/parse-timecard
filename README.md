@@ -1,6 +1,6 @@
 # parse-timecard
 ## usage
-1. set your hour pay
+1. set your hourly pay
 ```rust
 const HOURLY_PAY: i64 = /* secret value */;
 ```
