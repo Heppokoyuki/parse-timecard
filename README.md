@@ -5,4 +5,4 @@
 const HOURLY_PAY: i64 = /* secret value */;
 ```
 2. cargo build
-3. ./target/debug/parse-timecard [timecard].csv
+3. cat [timecard].csv | ./target/debug/parse-timecard
